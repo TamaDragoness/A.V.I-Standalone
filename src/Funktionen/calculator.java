@@ -1,5 +1,6 @@
 package Funktionen;
 
-public class calculator {
+public class calculator 
+{
 
 }

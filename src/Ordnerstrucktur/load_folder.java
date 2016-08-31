@@ -1,5 +1,6 @@
 package Ordnerstrucktur;
 
-public class load_folder {
+public class load_folder 
+{
 
 }

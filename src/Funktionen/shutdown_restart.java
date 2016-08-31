@@ -1,5 +1,6 @@
 package Funktionen;
 
-public class shutdown_restart {
+public class shutdown_restart 
+{
 
 }
